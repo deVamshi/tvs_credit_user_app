@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362702946813",
+    "project_id": "chaos-tvs-credit",
+    "storage_bucket": "chaos-tvs-credit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362702946813:android:636cb50cfc33ec7bacd994",
+        "android_client_info": {
+          "package_name": "com.example.tvs_credit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362702946813-5ktk2gj0bif4qdrba87e057oikfktqvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxFsjsRF58WlKxJ6N23vIzOXUstISRUGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362702946813-5ktk2gj0bif4qdrba87e057oikfktqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
